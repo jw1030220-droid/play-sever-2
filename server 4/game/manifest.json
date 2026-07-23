@@ -1,0 +1,17 @@
+{
+  "name": "惡搞棋院 Mischievous Chess Academy",
+  "short_name": "惡搞棋院",
+  "description": "正經棋盤，荒唐規則。西洋棋與象棋的惡搞技能對戰。",
+  "lang": "zh-Hant",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#8fd3ee",
+  "theme_color": "#8fd3ee",
+  "categories": ["games", "board"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
